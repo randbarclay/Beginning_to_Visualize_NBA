@@ -1,2 +1,0 @@
-mongodb+srv://randbarclay:<password>@randmongoaws-grnqf.mongodb.net/test?retryWrites=true&w=majority
-
